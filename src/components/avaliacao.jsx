@@ -12,7 +12,7 @@ const Avaliacao = () => {
     return ( 
         <div className="bg-gray-950 h-screen flex justify-center items-center">
             {
-                submit ? (<div className="bg-linear-to-t from-gray-900 via-gray-800 via-gray- to-gray-600   w-90 rounded-xl p-8">
+                submit ? (<div className="bg-linear-to-t from-gray-900 via-gray-800 via-gray-700 to-gray-600   w-90 rounded-xl p-8">
                 <div className="bg-gray-600 rounded-full inline-block p-1 mb-5">
                     <Star pack="filled" fill="oklch(70.5% 0.213 47.604)" />
                 </div>
